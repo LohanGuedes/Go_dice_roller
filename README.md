@@ -4,7 +4,7 @@ This is a CLI dice roller written in Go!
 
 # How to use:
 
-``` sh
+```
 $ goroller
 $ Wellcome to the Go dice roller!
 $ For help run either "goroller -h" or simply type h.
