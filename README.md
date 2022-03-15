@@ -38,4 +38,3 @@ $ Thanks for using goroller! good luck!
 # Support:
 
 If you have any ideas that could be put in this app, would be really helpful <3
-Feature ideas can be sent on PR's and via lguedes@student.42.rio.
